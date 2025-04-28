@@ -1,0 +1,8 @@
+streamlit
+streamlit-autorefresh
+pandas
+yfinance
+plotly
+celery
+pika
+SQLAlchemy
